@@ -1,0 +1,1 @@
+# ZhangSuen_thinning_algorithm_for_sinhala_Character_recognition
